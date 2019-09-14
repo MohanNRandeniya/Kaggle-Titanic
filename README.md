@@ -1,2 +1,4 @@
 # Kaggle-Titanic
-Titanic: Machine Learning from Disaster. Predict survival on the Titanic.
+Titanic: Machine Learning from Disaster.
+Predict survival on the Titanic.
+Score: 0.78947
